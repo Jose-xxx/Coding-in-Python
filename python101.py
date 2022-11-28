@@ -85,8 +85,8 @@ print(square_root(64))
 
 print('\n') #new line
 
-def n_l():
-	print('\n')
+def n_l():		#this a funtion for creating space/ a new line
+	print('\n') 
 
 print('-space-')
 
