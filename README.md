@@ -4,3 +4,4 @@ I created these as part of a course by Heath Adams aka The Cyber Mentor.
 
 python101 contains use of fundamentals
 python102 builds on things covered in python 101
+crappyscanner.py is simple port scanner based on ipv4 addresses 
